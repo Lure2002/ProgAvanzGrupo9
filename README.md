@@ -55,4 +55,3 @@ npm start
 - Migración a Hooks y custom hooks (`useReducer`, `useContext`, etc.)
 - Uso de servicios externos para persistencia (MockAPI, JSONPlaceholder, etc.)
 
----
